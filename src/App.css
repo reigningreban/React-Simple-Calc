@@ -1,0 +1,19 @@
+.nopad{
+  padding: 0;
+}
+.increase{
+  font-size: larger;
+}
+.calc-btn{
+  display: block;
+  width: 100%;
+}
+.display{
+  height: 200px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  direction: rtl;
+}
+.largest-font{
+  font-size: 90px;
+}
